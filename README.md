@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Accessibility
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about accessbility
+
 
 - Link to [my profile](https://github.com/V-Indrani). 
