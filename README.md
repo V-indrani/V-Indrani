@@ -9,6 +9,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about accessbility
+<<<<<<< HEAD
 
+=======
+- how to make the web more accessible
+>>>>>>> A-Branch-to-merge
 
 - Link to [my profile](https://github.com/V-Indrani). 
